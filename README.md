@@ -16,7 +16,7 @@ Heya! I'm Vivek, a student currently living in Chennai, India. I'm currently a
 </p>
 
 ```python
-class AbhigyanTrips():
+class fazenecture():
     
   def __init__(self):
     self.name = "Vivek";
@@ -30,19 +30,6 @@ if __name__ == '__main__':
     me = Vivek()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
 
 ## My Statistics
 
