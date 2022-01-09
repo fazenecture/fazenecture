@@ -17,21 +17,18 @@ I'm currently a 3rd Year B.Tech Student from SRM University. I'm a Flutter Devel
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
-            src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
-            alt="android studio" width="40" height="40" /> </a>
-    <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
-            src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
-            alt="aws" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a>
     <a href="https://flutter.dev/" target="_blank" title ="bootstrap studio"> <img
             src="https://plugins.jetbrains.com/files/12411/70430/icon/META-INF_pluginIcon.svg"
             alt="Flutter" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
-            src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="c" width="40"
+    <a href="https://dart.dev/" target="_blank" title ="Dart"> <img
+            src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="Dart" width="40"
             height="40" /> </a>
+    <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
+            src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
+            alt="android studio" width="40" height="40" /> </a>
+    <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" /> </a>
@@ -64,7 +61,6 @@ I'm currently a 3rd Year B.Tech Student from SRM University. I'm a Flutter Devel
     <a href="https://www.python.org" target="_blank" title ="Python"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
-
 </p> 
 
 
