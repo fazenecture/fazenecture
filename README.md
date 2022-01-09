@@ -1,6 +1,4 @@
-<h1 align="center">
-  <b>Vivek</b>
-</h1>
+<h1 align="center">Hi , I'm Candida Noronha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Heya! I'm Vivek, a student currently living in Chennai, India. I'm currently a
 3rd Year B.Tech Student from SRM University.
