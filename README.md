@@ -6,6 +6,10 @@ I'm currently a 3rd Year B.Tech Student from SRM University.
 
 <p>
 <div align="center">
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/fazenecture/count.svg" />
+</p>
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
@@ -30,10 +34,15 @@ if __name__ == '__main__':
 
 ## My Statistics
 
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fazenecture&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fazenecture&theme=gruvbox&hide_border=true" />
-  </a>
+  <b>📈 Stats</b>
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fazenecture&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fazenecture&theme=tokyonight" />
 </p>
-<br>
+
+
+  <b>⚡ Recent GitHub Activity</b>
+  <br/>
+   <a href=""><img alt="Vivek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fazenecture&custom_title=Vivek%20's%20Contribution%20Graph&theme=xcode" /></a>
+  <br/>
