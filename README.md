@@ -49,9 +49,9 @@ I'm currently a 3rd Year B.Tech Student from SRM University. I'm a Flutter Devel
     <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.java.com/en/" target="_blank" title ="java"> <img
-            src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
-            alt="java" width="40" height="40" /> </a>
+    <a href="https://firebase.google.com/" target="_blank" title ="Firebase"> <img
+            src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0016c93c710cf35990b999cba3a59bae/firebase.png"
+            alt="Firebase" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
