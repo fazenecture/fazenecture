@@ -29,9 +29,6 @@ I'm currently a 3rd Year B.Tech Student from SRM University. I'm a Flutter Devel
     <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>
@@ -61,6 +58,16 @@ I'm currently a 3rd Year B.Tech Student from SRM University. I'm a Flutter Devel
     <a href="https://www.python.org" target="_blank" title ="Python"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            alt="cplusplus" width="40" height="40" /> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" title ="VsCode"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40"
+            height="40" /> </a>
+    <a href="https://www.adobe.com/in/products/xd.html" target="_blank" title ="adobexd"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="adobexd" width="40"
+            height="40" /> </a>
+    
 </p> 
 
 
