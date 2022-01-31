@@ -75,7 +75,7 @@ I'm currently a 3rd Year B.Tech Student from SRM University. I'm a Flutter Devel
 </p>
 
 ```python
-class fazenecture():
+class fazenecture:
     
   def __init__(self):
     self.name = "Vivek";
