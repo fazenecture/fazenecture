@@ -86,7 +86,7 @@ class fazenecture:
     return self.name
 
 if __name__ == '__main__':
-    me = Vivek()
+    me = fazenecture()
 ```
 
 
