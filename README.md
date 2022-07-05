@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Vivek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm currently a 3rd Year B.Tech Student from SRM University. I'm a Flutter Developer as well as a UI/UX Developer.
+I'm currently a 3rd Year B.Tech Student from SRM University. I'm a Backend Developer as well as a Flutter App Developer.
 
 
 <p>
