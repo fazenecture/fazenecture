@@ -52,6 +52,9 @@ I'm currently a 4th Year B.Tech Student from SRM University. I'm a Backend Devel
     <a href="https://nodejs.org" target="_blank" title ="Node.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>
+        <a href="https://www.mysql.com/" target="_blank" title ="mySQL"> <img
+            src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
+            alt="nodejs" width="40" height="40" /> </a>        
     <a href="https://postman.com" target="_blank" title ="Postman"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" /> </a>
