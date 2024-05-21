@@ -98,7 +98,7 @@ if __name__ == '__main__':
 
 <p align="center">
 
-  <img width="48%" src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=fazenecture&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazenecture&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fazenecture&theme=tokyonight" />
 </p>
 
