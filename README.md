@@ -4,7 +4,6 @@
 
 **backend engineer. I build systems that have to work when things go wrong.**
 
-[![Email](https://img.shields.io/badge/email-vivekkumarsingh2002%40gmail.com-red?style=flat-square&logo=gmail)](mailto:vivekkumarsingh2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-vivek--kumarsingh-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vivek-kumarsingh)
 [![Twitter](https://img.shields.io/badge/twitter-fazenecture-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/fazenecture)
 
